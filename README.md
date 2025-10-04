@@ -1,2 +1,1 @@
-# LearnGitBranching
-My own answers
+My own solutions to each problem on https://learngitbranching.js.org/?locale=ko.
